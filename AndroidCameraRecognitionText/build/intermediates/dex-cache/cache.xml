@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_693b52f831c21d13f472a6515a00da9c860105ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_7f3a4a444e6a1d7a83f1394314cb296f912087b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_a65285c216c19853b537781ffc8473f5d0ac6233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_1a996ec09b63ae6fea5b4d240418bfb202a51dac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_c0584a0bf5ed6ecbd84e403cfe550354b0c1bfc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_60ccfe5938bd10a7a321b1bafc7616a8ce18027b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_720a636e088c6e192700a1c5f550cdc91dc33ac2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_68ae5cb9eeffd6c0b35a98f70858a0ba50ad022b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_6d5ccc948caba5de865d705798b52a2872f72690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_5fd0f99a0a27757025244857cbce77140249faa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_e7a0c6b20d23c12260c625696ea7bb1a31694031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_5845b700dfbb4a9955a5a9b4b0d32c16bcaef5f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_b8c1bffc9b50d18d4b245f294b7d0bfcb5cdd249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.8.0_63197c2b6152e9c5dcfd2f0afd0c4f7e14246608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_333ec20056e32154425e63898b6abc6c60ffa781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_2c98f9587205f15251f7b8e09e58e06c0c4504bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_0d44a83636873549bbb2032898067c574db35c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_7b18cb9b5f55e3eb0204bc9d45a01d9a9d639a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\GithubRepos\AndroidCameraRecognitionText\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_6c35b810a01ca324b8e4a637be780fb6689d8cb6.jar" />
+    </item>
+
+</items>
